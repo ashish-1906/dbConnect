@@ -1,0 +1,5 @@
+c:\users\araturi\documents\visual studio 2012\Projects\dbconnect\dbconnect\bin\dbconnect.dll
+c:\users\araturi\documents\visual studio 2012\Projects\dbconnect\dbconnect\bin\dbconnect.pdb
+c:\users\araturi\documents\visual studio 2012\Projects\dbconnect\dbconnect\obj\Debug\dbconnect.dll
+c:\users\araturi\documents\visual studio 2012\Projects\dbconnect\dbconnect\obj\Debug\dbconnect.pdb
+c:\users\araturi\documents\visual studio 2012\Projects\dbconnect\dbconnect\obj\Debug\dbconnect.csprojResolveAssemblyReference.cache
